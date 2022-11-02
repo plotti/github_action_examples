@@ -1,0 +1,37 @@
+name: Scrape 84xo
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "*/5 * * * *" 
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get working copy
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.8                               
+        uses: actions/setup-python@v2                               
+        with:                                 
+          python-version: '3.8'
+
+      - name: Install requests & BeautifulSoup & pytz $ LXML parser
+        run: pip install requests beautifulsoup4 pytz lxml
+
+      - name: Update README
+        run: |
+          python scrape_84xo.py
+
+      - name: Deploy
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add .
+          git commit -am "Auto-generated content update"
+          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
