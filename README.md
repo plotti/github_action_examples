@@ -22,3 +22,5 @@
 
 - 22:30 02.11.22 Die «Startup Nights» haben das nächste Level erreicht
 
+- 22:39 02.11.22 Die «Startup Nights» haben das nächste Level erreicht
+
