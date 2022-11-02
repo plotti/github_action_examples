@@ -1,9 +1,4 @@
 # Github_action_examples
 
-# Latest 84xo Headlines
-21:38 02.11.22 Die «Startup Nights» haben das nächste Level erreicht
-21:39 02.11.22 Die «Startup Nights» haben das nächste Level erreicht
-20:42 02.11.22 Die «Startup Nights» haben das nächste Level erreicht
-20:50 02.11.22 Die «Startup Nights» haben das nächste Level erreicht
-20:51 02.11.22 Die «Startup Nights» haben das nächste Level erreicht
+20:52 02.11.22 Die «Startup Nights» haben das nächste Level erreicht
 
