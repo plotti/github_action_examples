@@ -170,3 +170,5 @@
 
 - 15:32 03.11.22 Die Sanierung der Villa Flora wird teurer
 
+- 15:48 03.11.22 Das erste Geburtshaus in Winterthur befindet sich auf der Zielgerade
+
