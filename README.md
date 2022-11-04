@@ -494,3 +494,5 @@
 
 - 23:34 04.11.22 «Aktuell suchen wir noch etwa 40 WM-Helfende»
 
+- 23:44 04.11.22 Stadtrat beschliesst weitere Energiesparmassnahmen
+
