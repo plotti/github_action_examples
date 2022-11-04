@@ -292,3 +292,5 @@
 
 - 05:33 04.11.22 Das erste Geburtshaus in Winterthur befindet sich auf der Zielgerade
 
+- 05:43 04.11.22 Das erste Geburtshaus in Winterthur befindet sich auf der Zielgerade
+
