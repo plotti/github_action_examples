@@ -298,3 +298,5 @@
 
 - 05:58 04.11.22 Das erste Geburtshaus in Winterthur befindet sich auf der Zielgerade
 
+- 06:09 04.11.22 «Aktuell suchen wir noch etwa 40 WM-Helfende»
+
