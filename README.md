@@ -380,3 +380,5 @@
 
 - 13:47 04.11.22 «Aktuell suchen wir noch etwa 40 WM-Helfende»
 
+- 13:57 04.11.22 «Aktuell suchen wir noch etwa 40 WM-Helfende»
+
