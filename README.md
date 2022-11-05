@@ -532,3 +532,5 @@
 
 - 05:40 05.11.22 Stadtrat beschliesst weitere Energiesparmassnahmen
 
+- 05:48 05.11.22 Stadtrat beschliesst weitere Energiesparmassnahmen
+
