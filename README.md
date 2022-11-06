@@ -898,3 +898,5 @@
 
 - 15:27 06.11.22 «Wichtig sind für Aussteller viele Messe-Besucher, die etwas ausgeben wollen»
 
+- 15:38 06.11.22 «Wichtig sind für Aussteller viele Messe-Besucher, die etwas ausgeben wollen»
+
