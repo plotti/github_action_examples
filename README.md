@@ -810,3 +810,5 @@
 
 - 07:47 06.11.22 Seit 25 Jahren ohne Jetlag auf kulinarischer Weltreise
 
+- 07:55 06.11.22 «Wichtig sind für Aussteller viele Messe-Besucher, die etwas ausgeben wollen»
+
