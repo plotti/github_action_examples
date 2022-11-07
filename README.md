@@ -1128,3 +1128,5 @@
 
 - 15:15 07.11.22 Rad-WM 2024 führt durch Winterthur
 
+- 15:28 07.11.22 Rad-WM 2024 führt durch Winterthur
+
