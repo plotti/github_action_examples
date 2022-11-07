@@ -1054,3 +1054,5 @@
 
 - 07:54 07.11.22 «Wichtig sind für Aussteller viele Messe-Besucher, die etwas ausgeben wollen»
 
+- 08:04 07.11.22 Rad-WM 2024 führt durch Winterthur
+
