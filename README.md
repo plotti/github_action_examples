@@ -1136,3 +1136,5 @@
 
 - 15:56 07.11.22 Rad-WM 2024 führt durch Winterthur
 
+- 16:06 07.11.22 Polizei verhaftet 22-Jährigen nach Gewaltdelikt in Sulz
+
