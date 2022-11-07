@@ -1220,3 +1220,5 @@
 
 - 23:25 07.11.22 Polizei verhaftet 22-Jährigen nach Gewaltdelikt in Sulz
 
+- 23:37 07.11.22 Polizei verhaftet 22-Jährigen nach Gewaltdelikt in Sulz
+
