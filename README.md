@@ -1304,3 +1304,5 @@
 
 - 10:06 08.11.22 14 Parkfelder müssen Ausnahmetransporten weichen
 
+- 10:19 08.11.22 Stadtgrün muss 228 Bäume fällen
+
