@@ -1314,3 +1314,5 @@
 
 - 11:02 08.11.22 Stadtgrün muss 228 Bäume fällen
 
+- 11:12 08.11.22 Die blaue Zone in der Breite ist Tatsache
+
