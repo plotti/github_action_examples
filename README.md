@@ -1352,3 +1352,5 @@
 
 - 15:06 08.11.22 Die blaue Zone in der Breite ist Tatsache
 
+- 15:18 08.11.22 Ein Neubau, der für Innovation, Hightech und Präzision steht
+
