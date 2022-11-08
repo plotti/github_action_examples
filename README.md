@@ -1268,3 +1268,5 @@
 
 - 07:00 08.11.22 Müssen Glühbirnen und Neonröhren in die Glas- oder in eine Extramulde?
 
+- 07:10 08.11.22 Müssen Glühbirnen und Neonröhren in die Glas- oder in eine Extramulde?
+
