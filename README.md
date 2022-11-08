@@ -1384,3 +1384,5 @@
 
 - 18:21 08.11.22 Ein Neubau, der für Innovation, Hightech und Präzision steht
 
+- 18:38 08.11.22 Ein Neubau, der für Innovation, Hightech und Präzision steht
+
