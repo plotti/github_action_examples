@@ -1282,3 +1282,5 @@
 
 - 08:08 08.11.22 14 Parkfelder müssen Ausnahmetransporten weichen
 
+- 08:21 08.11.22 14 Parkfelder müssen Ausnahmetransporten weichen
+
