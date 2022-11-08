@@ -1306,3 +1306,5 @@
 
 - 10:19 08.11.22 Stadtgrün muss 228 Bäume fällen
 
+- 10:33 08.11.22 Stadtgrün muss 228 Bäume fällen
+
