@@ -1278,3 +1278,5 @@
 
 - 07:48 08.11.22 Müssen Glühbirnen und Neonröhren in die Glas- oder in eine Extramulde?
 
+- 07:56 08.11.22 14 Parkfelder müssen Ausnahmetransporten weichen
+
