@@ -1538,3 +1538,5 @@
 
 - 11:30 09.11.22 Winterthur im WM-Fieber
 
+- 11:39 09.11.22 Winterthur im WM-Fieber
+
