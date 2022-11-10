@@ -1774,3 +1774,5 @@
 
 - 12:16 10.11.22 Stapo verteilt 42 Bussen in einer Stunde
 
+- 12:34 10.11.22 Der grösste Winterthurer Treffpunkt ist zurück
+
