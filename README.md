@@ -1822,3 +1822,5 @@
 
 - 17:51 10.11.22 Der grösste Winterthurer Treffpunkt ist zurück
 
+- 17:59 10.11.22 Der grösste Winterthurer Treffpunkt ist zurück
+
