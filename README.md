@@ -1718,3 +1718,5 @@
 
 - 07:28 10.11.22 Winterthur unterstützt arme Familien in Malawi
 
+- 07:36 10.11.22 Winterthur unterstützt arme Familien in Malawi
+
