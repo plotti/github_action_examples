@@ -1740,3 +1740,5 @@
 
 - 09:29 10.11.22 Die neuen, langen Busse fahren früher als geplant
 
+- 09:39 10.11.22 Stapo verteilt 42 Bussen in einer Stunde
+
