@@ -1760,3 +1760,5 @@
 
 - 11:08 10.11.22 Stapo verteilt 42 Bussen in einer Stunde
 
+- 11:19 10.11.22 Stapo verteilt 42 Bussen in einer Stunde
+
