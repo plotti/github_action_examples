@@ -2002,3 +2002,5 @@
 
 - 12:45 11.11.22 Grosse Mehrheit der Gäste gibt Trinkgeld, allerdings nicht gleich viel
 
+- 13:07 11.11.22 Grosse Mehrheit der Gäste gibt Trinkgeld, allerdings nicht gleich viel
+
