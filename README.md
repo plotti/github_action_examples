@@ -1920,3 +1920,5 @@
 
 - 05:22 11.11.22 Der grösste Winterthurer Treffpunkt ist zurück
 
+- 05:34 11.11.22 Grosse Mehrheit der Gäste gibt Trinkgeld, allerdings nicht gleich viel
+
