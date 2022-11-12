@@ -2316,3 +2316,5 @@
 
 - 19:29 12.11.22 Winterthur verschärft die Regeln für E-Trottis
 
+- 19:37 12.11.22 Winterthur verschärft die Regeln für E-Trottis
+
