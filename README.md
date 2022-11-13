@@ -2398,3 +2398,5 @@
 
 - 05:10 13.11.22 Winterthur verschärft die Regeln für E-Trottis
 
+- 05:23 13.11.22 Sulzerareal soll autofrei werden
+
