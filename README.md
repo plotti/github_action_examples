@@ -2572,3 +2572,5 @@
 
 - 20:13 13.11.22 «Rampensäue kann man nicht heranzüchten»
 
+- 20:26 13.11.22 «Rampensäue kann man nicht heranzüchten»
+
