@@ -2406,3 +2406,5 @@
 
 - 05:50 13.11.22 Sulzerareal soll autofrei werden
 
+- 05:57 13.11.22 Sulzerareal soll autofrei werden
+
