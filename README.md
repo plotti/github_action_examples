@@ -2432,3 +2432,5 @@
 
 - 07:57 13.11.22 Sulzerareal soll autofrei werden
 
+- 08:07 13.11.22 «Rampensäue kann man nicht heranzüchten»
+
