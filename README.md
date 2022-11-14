@@ -2706,3 +2706,5 @@
 
 - 10:57 14.11.22 Schulanlage Tägelmoos erhält noch mehr Schulraum
 
+- 11:06 14.11.22 Schulanlage Tägelmoos erhält noch mehr Schulraum
+
