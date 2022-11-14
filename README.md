@@ -2700,3 +2700,5 @@
 
 - 10:26 14.11.22 Tempo-30-Zonen: Stadt treibt Lärmschutz weiter
 
+- 10:39 14.11.22 Schulanlage Tägelmoos erhält noch mehr Schulraum
+
