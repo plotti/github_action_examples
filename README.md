@@ -2848,3 +2848,5 @@
 
 - 02:15 15.11.22 Auch der Fan-Freuler will in der Wüste einen Pokal
 
+- 02:56 15.11.22 Auch der Fan-Freuler will in der Wüste einen Pokal
+
