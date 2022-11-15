@@ -2986,3 +2986,5 @@
 
 - 15:38 15.11.22 Bezirksrat weist Rekurs gegen Frauenfelderstrasse ab
 
+- 15:46 15.11.22 Stimmungsvoller Fasnachts-Auftakt
+
