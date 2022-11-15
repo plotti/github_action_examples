@@ -2956,3 +2956,5 @@
 
 - 12:43 15.11.22 Bezirksrat weist Rekurs gegen Frauenfelderstrasse ab
 
+- 13:04 15.11.22 Bezirksrat weist Rekurs gegen Frauenfelderstrasse ab
+
