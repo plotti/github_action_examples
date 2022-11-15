@@ -2872,3 +2872,5 @@
 
 - 05:31 15.11.22 Auch der Fan-Freuler will in der Wüste einen Pokal
 
+- 05:40 15.11.22 «Die intensiven Emotionen hat man nicht von heute auf morgen verarbeitet»
+
