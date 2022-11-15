@@ -2940,3 +2940,5 @@
 
 - 11:17 15.11.22 «Diese intensiven Emotionen hat man nicht von heute auf morgen verarbeitet»
 
+- 11:26 15.11.22 «Diese intensiven Emotionen hat man nicht von heute auf morgen verarbeitet»
+
