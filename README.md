@@ -3670,3 +3670,5 @@
 
 - 09:10 18.11.22 Blechschaden bei Unfall zwischen Stadtbus und PW
 
+- 09:22 18.11.22 Blechschaden bei Unfall zwischen Stadtbus und PW
+
