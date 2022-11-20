@@ -4176,3 +4176,5 @@
 
 - 07:58 20.11.22 Schulanlage Büelwiesen wird erweitert
 
+- 08:08 20.11.22 Schulanlage Büelwiesen wird erweitert
+
