@@ -4322,3 +4322,5 @@
 
 - 19:59 20.11.22 Ein Orakel für «d&#8217;Chatz»
 
+- 20:09 20.11.22 Ein Orakel für «d&#8217;Chatz»
+
