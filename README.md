@@ -4204,3 +4204,5 @@
 
 - 10:15 20.11.22 Schulanlage Büelwiesen wird erweitert
 
+- 10:28 20.11.22 Ein Orakel für «d&#8217;Chatz»
+
