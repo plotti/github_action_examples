@@ -4502,3 +4502,5 @@
 
 - 14:10 21.11.22 Das war der 29. Hegemer Chlauslauf
 
+- 14:22 21.11.22 Entenweiher Seuzach: Alle Vögel müssen getötet werden
+
