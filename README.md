@@ -4504,3 +4504,5 @@
 
 - 14:22 21.11.22 Entenweiher Seuzach: Alle Vögel müssen getötet werden
 
+- 14:31 21.11.22 Entenweiher Seuzach: Alle Vögel müssen getötet werden
+
