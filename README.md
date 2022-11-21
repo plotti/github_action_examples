@@ -4524,3 +4524,5 @@
 
 - 15:55 21.11.22 Entenweiher Seuzach: Alle Vögel müssen getötet werden
 
+- 16:05 21.11.22 Die weihnächtlichen Lämpchen und Sterne leuchten wieder
+
