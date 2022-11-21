@@ -4458,3 +4458,5 @@
 
 - 09:52 21.11.22 Alex Kern für zwei Spiele FC-Vaduz-Trainer
 
+- 09:59 21.11.22 Alex Kern für zwei Spiele FC-Vaduz-Trainer
+
