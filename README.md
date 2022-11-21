@@ -4464,3 +4464,5 @@
 
 - 10:23 21.11.22 Alex Kern für zwei Spiele FC-Vaduz-Trainer
 
+- 10:35 21.11.22 Das war der 29. Hegemer Chlauslauf
+
