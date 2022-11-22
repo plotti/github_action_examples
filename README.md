@@ -4668,3 +4668,5 @@
 
 - 06:29 22.11.22 Stadt muss Hilfsprojekt im Südsudan abbrechen
 
+- 06:41 22.11.22 Stadt muss Hilfsprojekt im Südsudan abbrechen
+
