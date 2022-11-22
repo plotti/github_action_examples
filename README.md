@@ -4676,3 +4676,5 @@
 
 - 07:09 22.11.22 Stadt muss Hilfsprojekt im Südsudan abbrechen
 
+- 07:21 22.11.22 Ostschweizer Städte müssen Hilfsprojekt im Südsudan abbrechen
+
