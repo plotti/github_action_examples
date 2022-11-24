@@ -5242,3 +5242,5 @@
 
 - 10:00 24.11.22 Büsi-Orakel ist unschlüssig
 
+- 10:10 24.11.22 Büsi-Orakel ist unschlüssig
+
