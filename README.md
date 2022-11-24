@@ -5270,3 +5270,5 @@
 
 - 12:09 24.11.22 Es «wiehnächtelet» in Winterthur
 
+- 12:23 24.11.22 Während 16 Tagen auf Gewalt an Frauen aufmerksam machen
+
