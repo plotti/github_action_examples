@@ -5186,3 +5186,5 @@
 
 - 05:37 24.11.22 Erst das Dach über dem Kopf  bauen und dann Land suchen
 
+- 05:45 24.11.22 Büsi-Orakel ist unschlüssig
+
