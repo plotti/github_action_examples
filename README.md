@@ -5150,3 +5150,5 @@
 
 - 01:28 24.11.22 Erst das Dach über dem Kopf  bauen und dann Land suchen
 
+- 02:09 24.11.22 Erst das Dach über dem Kopf  bauen und dann Land suchen
+
