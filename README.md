@@ -5244,3 +5244,5 @@
 
 - 10:10 24.11.22 Büsi-Orakel ist unschlüssig
 
+- 10:23 24.11.22 Es «wiehnächtelet» in Winterthur
+
