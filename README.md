@@ -5586,3 +5586,5 @@
 
 - 16:10 25.11.22 Aus Führungsschwächen des Kommandos die Lehren ziehen
 
+- 16:23 25.11.22 Aus Führungsschwächen des Kommandos die Lehren ziehen
+
