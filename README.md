@@ -5730,3 +5730,5 @@
 
 - 05:29 26.11.22 Aus Führungsschwächen des Kommandos die Lehren ziehen
 
+- 05:36 26.11.22 Bühne frei für einen gesellig kulturellen Weihnachtsmarkt
+
