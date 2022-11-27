@@ -5976,3 +5976,5 @@
 
 - 01:15 27.11.22 Bühne frei für einen gesellig kulturellen Weihnachtsmarkt
 
+- 02:00 27.11.22 Bühne frei für einen gesellig kulturellen Weihnachtsmarkt
+
