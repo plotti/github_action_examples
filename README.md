@@ -6008,3 +6008,5 @@
 
 - 05:33 27.11.22 Bühne frei für einen gesellig kulturellen Weihnachtsmarkt
 
+- 05:40 27.11.22 Schulweg für Hegemer Sekundarschulkinder ist auch im Winter zumutbar
+
