@@ -6256,3 +6256,5 @@
 
 - 02:37 28.11.22 Schulweg für Hegemer Sekundarschulkinder ist auch im Winter zumutbar
 
+- 03:01 28.11.22 Schulweg für Hegemer Sekundarschulkinder ist auch im Winter zumutbar
+
