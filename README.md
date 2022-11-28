@@ -6336,3 +6336,5 @@
 
 - 09:31 28.11.22 Flag Football League trägt Name einer Winterthurer Marke
 
+- 09:40 28.11.22 Büsi-Orakel setzt auf Shaqiri und Co.
+
