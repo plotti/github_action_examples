@@ -6292,3 +6292,5 @@
 
 - 05:57 28.11.22 Flag Football League trägt Name einer Winterthurer Marke
 
+- 06:07 28.11.22 Flag Football League trägt Name einer Winterthurer Marke
+
