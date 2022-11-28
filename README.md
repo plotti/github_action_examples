@@ -6286,3 +6286,5 @@
 
 - 05:34 28.11.22 Schulweg für Hegemer Sekundarschulkinder ist auch im Winter zumutbar
 
+- 05:42 28.11.22 Flag Football League trägt Name einer Winterthurer Marke
+
