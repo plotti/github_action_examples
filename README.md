@@ -6338,3 +6338,5 @@
 
 - 09:40 28.11.22 Büsi-Orakel setzt auf Shaqiri und Co.
 
+- 09:49 28.11.22 Büsi-Orakel setzt auf Shaqiri und Co.
+
