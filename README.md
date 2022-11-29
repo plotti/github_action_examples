@@ -6670,3 +6670,5 @@
 
 - 14:36 29.11.22 Aktivisten lassen Luft aus Reifen von 70 Fahrzeugen
 
+- 14:43 29.11.22 Das «Coucou» ist in Feierlaune
+
