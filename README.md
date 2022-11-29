@@ -6562,3 +6562,5 @@
 
 - 05:38 29.11.22 Die Altstadt im Beschlag der Chläuse
 
+- 05:45 29.11.22 «Wollen zeigen, wofür wir so viel Herzblut investieren»
+
