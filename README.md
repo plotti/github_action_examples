@@ -6602,3 +6602,5 @@
 
 - 08:50 29.11.22 «Wollen zeigen, wofür wir so viel Herzblut investieren»
 
+- 08:58 29.11.22 «Strommangellage» ist das Wort des Jahres 2022
+
