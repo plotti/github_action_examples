@@ -6610,3 +6610,5 @@
 
 - 09:30 29.11.22 «Wollen zeigen, wofür wir so viel Herzblut investieren»
 
+- 09:38 29.11.22 Aktivisten lassen Luft aus Reifen von 70 Fahrzeugen
+
