@@ -6648,3 +6648,5 @@
 
 - 12:25 29.11.22 Aktivisten lassen Luft aus Reifen von 70 Fahrzeugen
 
+- 12:44 29.11.22 Aktivisten lassen Luft aus Reifen von 70 Fahrzeugen
+
