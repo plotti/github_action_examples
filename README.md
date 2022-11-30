@@ -6974,3 +6974,5 @@
 
 - 17:27 30.11.22 Kamberi und Seiler gehen, neuer Stürmer kurz vor der Unterschrift
 
+- 17:36 30.11.22 Kamberi und Seiler gehen, neuer Stürmer kurz vor der Unterschrift
+
