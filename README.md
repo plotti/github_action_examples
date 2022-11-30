@@ -6920,3 +6920,5 @@
 
 - 12:25 30.11.22 «Im Wirrwarr meiner Gedanken finde ich Inspiration»
 
+- 12:45 30.11.22 Kamberi und Seiler gehen, neuer Stürmer kurz vor der Unterschrift
+
