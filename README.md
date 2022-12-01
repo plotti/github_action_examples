@@ -7154,3 +7154,5 @@
 
 - 10:07 01.12.22 Trikots wie der FC Winterthur
 
+- 10:19 01.12.22 Trikots wie der FC Winterthur
+
