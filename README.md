@@ -7156,3 +7156,5 @@
 
 - 10:19 01.12.22 Trikots wie der FC Winterthur
 
+- 10:31 01.12.22 Neue Mitglieder in den Spitalräten
+
