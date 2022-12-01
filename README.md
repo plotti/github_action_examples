@@ -7164,3 +7164,5 @@
 
 - 10:56 01.12.22 Neue Mitglieder in den Spitalräten
 
+- 11:05 01.12.22 Neue Mitglieder in den Spitalräten
+
