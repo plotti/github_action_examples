@@ -7368,3 +7368,5 @@
 
 - 05:27 02.12.22 Der Fisch stinkt vom Kopf her
 
+- 05:35 02.12.22 Büsi-Orakel glaubt an die Schweizer Nati
+
