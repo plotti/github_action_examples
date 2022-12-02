@@ -7404,3 +7404,5 @@
 
 - 08:08 02.12.22 Büsi-Orakel glaubt an die Schweizer Nati
 
+- 08:21 02.12.22 Büsi-Orakel glaubt an die Schweizer Nati
+
