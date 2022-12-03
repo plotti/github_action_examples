@@ -7666,3 +7666,5 @@
 
 - 05:53 03.12.22 Ein Weihnachtsdorf auf dem Teuchelweiher
 
+- 06:02 03.12.22 Haare schneiden, wo es gebraucht wird
+
