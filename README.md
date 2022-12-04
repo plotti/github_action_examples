@@ -8148,3 +8148,5 @@
 
 - 20:47 04.12.22 Haare schneiden, wo es gebraucht wird
 
+- 20:55 04.12.22 Haare schneiden, wo es gebraucht wird
+
