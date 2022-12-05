@@ -8264,3 +8264,5 @@
 
 - 07:36 05.12.22 Haare schneiden, wo es gebraucht wird
 
+- 07:44 05.12.22 Stadt führt Anlaufstelle für Geflüchtete und Gastfamilien weiter
+
