@@ -8290,3 +8290,5 @@
 
 - 09:37 05.12.22 Stadt führt Anlaufstelle für Geflüchtete und Gastfamilien weiter
 
+- 09:45 05.12.22 Stadt führt Anlaufstelle für Geflüchtete und Gastfamilien weiter
+
