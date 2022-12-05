@@ -8322,3 +8322,5 @@
 
 - 11:56 05.12.22 Stadt führt Anlaufstelle für Geflüchtete und Gastfamilien weiter
 
+- 12:08 05.12.22 Ltaief kehrt zum FC Winterthur zurück
+
