@@ -8450,3 +8450,5 @@
 
 - 22:09 05.12.22 Ltaief kehrt zum FC Winterthur zurück
 
+- 22:20 05.12.22 Ltaief kehrt zum FC Winterthur zurück
+
