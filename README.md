@@ -8620,3 +8620,5 @@
 
 - 13:25 06.12.22 Das ändert sich in Winterthur mit dem neuen Fahrplan
 
+- 13:36 06.12.22 Neuer Energieplan ist ab sofort im Stadtplan zugänglich
+
