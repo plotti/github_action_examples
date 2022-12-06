@@ -8524,3 +8524,5 @@
 
 - 05:40 06.12.22 Das ändert sich in Winterthur mit dem neuen Fahrplan
 
+- 05:48 06.12.22 Das ändert sich in Winterthur mit dem neuen Fahrplan
+
