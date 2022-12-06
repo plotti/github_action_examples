@@ -8520,3 +8520,5 @@
 
 - 05:24 06.12.22 Ltaief kehrt zum FC Winterthur zurück
 
+- 05:32 06.12.22 Das ändert sich in Winterthur mit dem neuen Fahrplan
+
