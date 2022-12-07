@@ -8796,3 +8796,5 @@
 
 - 04:56 07.12.22 Neuer Energieplan ist ab sofort im Stadtplan zugänglich
 
+- 05:05 07.12.22 Neuer Energieplan ist ab sofort im Stadtplan zugänglich
+
