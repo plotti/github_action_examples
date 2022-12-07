@@ -8804,3 +8804,5 @@
 
 - 05:34 07.12.22 Neuer Energieplan ist ab sofort im Stadtplan zugänglich
 
+- 05:41 07.12.22 Erste LKW-Megawattbatterie, aber Strommangel – geht das?
+
