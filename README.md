@@ -9230,3 +9230,5 @@
 
 - 16:53 08.12.22 Der Stadtrat will Initiative gegen  flächendeckendes Tempo 30 abschmettern
 
+- 17:00 08.12.22 Salzstreuer und Schneepflüge in den Startlöchern
+
