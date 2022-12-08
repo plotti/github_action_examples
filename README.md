@@ -9178,3 +9178,5 @@
 
 - 12:30 08.12.22 Die «blauen Haie» wollen am 49. Yellow Cup zubeissen
 
+- 12:47 08.12.22 Der Stadtrat will Initiative gegen  flächendeckendes Tempo 30 abschmettern
+
