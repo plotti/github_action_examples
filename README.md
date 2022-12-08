@@ -9188,3 +9188,5 @@
 
 - 13:36 08.12.22 Der Stadtrat will Initiative gegen  flächendeckendes Tempo 30 abschmettern
 
+- 13:44 08.12.22 Der Stadtrat will Initiative gegen  flächendeckendes Tempo 30 abschmettern
+
