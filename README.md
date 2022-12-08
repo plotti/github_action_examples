@@ -9078,3 +9078,5 @@
 
 - 04:47 08.12.22 Erste LKW-Megawattbatterie, aber Strommangel – geht das?
 
+- 04:55 08.12.22 Erste LKW-Megawattbatterie, aber Strommangel – geht das?
+
