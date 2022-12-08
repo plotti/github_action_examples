@@ -9086,3 +9086,5 @@
 
 - 05:25 08.12.22 Erste LKW-Megawattbatterie, aber Strommangel – geht das?
 
+- 05:33 08.12.22 Die «blauen Haie» wollen am 49. Yellow-Cup zubeissen
+
