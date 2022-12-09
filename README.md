@@ -9396,3 +9396,5 @@
 
 - 07:46 09.12.22 Salzstreuer und Schneepflüge in den Startlöchern
 
+- 07:54 09.12.22 Gemeinsam statt einsam Spuren hinterlassen
+
