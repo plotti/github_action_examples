@@ -9468,3 +9468,5 @@
 
 - 13:39 09.12.22 Gemeinsam statt einsam Spuren hinterlassen
 
+- 13:46 09.12.22 In Sachen Verkehrspolitik soll das Volk aussen vor bleiben
+
