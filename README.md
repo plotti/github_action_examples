@@ -9372,3 +9372,5 @@
 
 - 05:55 09.12.22 Salzstreuer und Schneepflüge in den Startlöchern
 
+- 06:05 09.12.22 Salzstreuer und Schneepflüge in den Startlöchern
+
