@@ -9816,3 +9816,5 @@
 
 - 18:27 10.12.22 Stadt verbessert Bedingungen für Kinder mit Beeinträchtigungen in Kitas
 
+- 18:36 10.12.22 Stadt verbessert Bedingungen für Kinder mit Beeinträchtigungen in Kitas
+
