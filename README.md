@@ -9648,3 +9648,5 @@
 
 - 05:30 10.12.22 In Sachen Verkehrspolitik soll das Volk aussen vor bleiben
 
+- 05:38 10.12.22 Stadt verbessert Bedingungen für Kinder mit Beeinträchtigungen in Kitas
+
