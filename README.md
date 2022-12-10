@@ -9612,3 +9612,5 @@
 
 - 02:38 10.12.22 In Sachen Verkehrspolitik soll das Volk aussen vor bleiben
 
+- 02:52 10.12.22 In Sachen Verkehrspolitik soll das Volk aussen vor bleiben
+
