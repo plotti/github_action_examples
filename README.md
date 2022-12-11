@@ -10024,3 +10024,5 @@
 
 - 11:53 11.12.22 Stadt verbessert Bedingungen für Kinder mit Beeinträchtigungen in Kitas
 
+- 12:02 11.12.22 Stadt zahlt vier Kulturinstitutionen einen Teuerungsausgleich
+
