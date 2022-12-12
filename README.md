@@ -10198,3 +10198,5 @@
 
 - 03:18 12.12.22 Stadt zahlt vier Kulturinstitutionen einen Teuerungsausgleich
 
+- 03:30 12.12.22 Stadt zahlt vier Kulturinstitutionen einen Teuerungsausgleich
+
