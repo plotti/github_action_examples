@@ -10258,3 +10258,5 @@
 
 - 07:53 12.12.22 Generationenwechsel bei der Raiffeisenbank Winterthur
 
+- 08:02 12.12.22 Reisen im Rollstuhl: In Winterthur sind viele Bushaltekanten zu tief
+
