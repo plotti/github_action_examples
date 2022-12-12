@@ -10360,3 +10360,5 @@
 
 - 16:06 12.12.22 Zwei Auseinandersetzungen fordern zwei Verletzte
 
+- 16:19 12.12.22 Reisen im Rollstuhl: In Winterthur sind viele Bushaltekanten zu tief
+
