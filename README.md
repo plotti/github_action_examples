@@ -10252,3 +10252,5 @@
 
 - 07:30 12.12.22 Generationenwechsel bei der Raiffeisenbank Winterthur
 
+- 07:38 12.12.22 Generationenwechsel bei der Raiffeisenbank Winterthur
+
