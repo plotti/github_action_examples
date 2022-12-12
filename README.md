@@ -10296,3 +10296,5 @@
 
 - 10:52 12.12.22 Reisen im Rollstuhl: In Winterthur sind viele Bushaltekanten zu tief
 
+- 10:59 12.12.22 Reisen im Rollstuhl: In Winterthur sind viele Bushaltekanten zu tief
+
