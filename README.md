@@ -10518,3 +10518,5 @@
 
 - 06:38 13.12.22 Zwei Auseinandersetzungen fordern zwei Verletzte
 
+- 06:46 13.12.22 Berner Flagge geklaut
+
