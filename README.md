@@ -10600,3 +10600,5 @@
 
 - 13:10 13.12.22 Berner Flagge geklaut
 
+- 13:24 13.12.22 Zuckerrüben führten zu Stau
+
