@@ -10470,3 +10470,5 @@
 
 - 02:02 13.12.22 Zwei Auseinandersetzungen fordern zwei Verletzte
 
+- 02:36 13.12.22 Zwei Auseinandersetzungen fordern zwei Verletzte
+
