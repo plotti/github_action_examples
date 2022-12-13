@@ -10588,3 +10588,5 @@
 
 - 11:51 13.12.22 Berner Flagge geklaut
 
+- 11:59 13.12.22 Berner Flagge geklaut
+
