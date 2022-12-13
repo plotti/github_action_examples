@@ -10680,3 +10680,5 @@
 
 - 19:33 13.12.22 Zuckerrüben führten zu Stau
 
+- 19:40 13.12.22 Zuckerrüben führten zu Stau
+
