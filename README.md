@@ -10996,3 +10996,5 @@
 
 - 22:00 14.12.22 Kultur-Komitee vergibt erneut grosse Summe
 
+- 22:10 14.12.22 Kultur-Komitee vergibt erneut grosse Summe
+
