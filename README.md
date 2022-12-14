@@ -10890,3 +10890,5 @@
 
 - 13:56 14.12.22 Kultur-Komitee vergibt erneut 400&#8217;000 Franken
 
+- 14:05 14.12.22 Kultur-Komitee vergibt erneut 400&#8217;000 Franken
+
