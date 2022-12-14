@@ -10888,3 +10888,5 @@
 
 - 13:48 14.12.22 Der hilfsbereite Tausendsassa hinterlässt viele Erinnerungen
 
+- 13:56 14.12.22 Kultur-Komitee vergibt erneut 400&#8217;000 Franken
+
