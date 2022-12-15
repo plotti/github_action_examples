@@ -11168,3 +11168,5 @@
 
 - 13:41 15.12.22 «Unnötig brennende Lichter werden häufiger gemeldet»
 
+- 13:50 15.12.22 Happy End für den hiesigen Tierschutzverein
+
