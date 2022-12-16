@@ -11438,3 +11438,5 @@
 
 - 11:28 16.12.22 Auf der Theaterbühne gestartet, in der tibetischen Heilkunst gelandet
 
+- 11:35 16.12.22 Auf der Theaterbühne gestartet, in der tibetischen Heilkunst gelandet
+
