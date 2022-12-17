@@ -11604,3 +11604,5 @@
 
 - 23:59 16.12.22 Zweijährige löst Polizeieinsatz aus
 
+- 00:22 17.12.22 Zweijährige löst Polizeieinsatz aus
+
