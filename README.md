@@ -11940,3 +11940,5 @@
 
 - 03:54 18.12.22 Am Wintermarkt kann nun auch bar bezahlt werden
 
+- 04:04 18.12.22 Am Wintermarkt kann nun auch bar bezahlt werden
+
