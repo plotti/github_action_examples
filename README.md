@@ -11964,3 +11964,5 @@
 
 - 05:42 18.12.22 Am Wintermarkt kann nun auch bar bezahlt werden
 
+- 05:50 18.12.22 Stapo versteigert altes Mobiliar für über 50&#8217;000 Franken
+
