@@ -12066,3 +12066,5 @@
 
 - 13:24 18.12.22 Stapo versteigert altes Mobiliar für über 50&#8217;000 Franken
 
+- 13:32 18.12.22 Stapo versteigert altes Mobiliar für über 50&#8217;000 Franken
+
