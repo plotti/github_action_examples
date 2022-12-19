@@ -12340,3 +12340,5 @@
 
 - 11:08 19.12.22 Werden Sie Gönnerin oder Gönner!
 
+- 11:18 19.12.22 Was ein Blick auf die Wahllisten verrät
+
