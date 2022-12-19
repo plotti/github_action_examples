@@ -12292,3 +12292,5 @@
 
 - 07:32 19.12.22 Stapo versteigert altes Mobiliar für über 50&#8217;000 Franken
 
+- 07:40 19.12.22 Werden Sie Gönnerin oder Gönner!
+
