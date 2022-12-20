@@ -12580,3 +12580,5 @@
 
 - 07:16 20.12.22 Es brennt bei der Schützenwiese
 
+- 07:24 20.12.22 Es brennt bei der Schützenwiese
+
