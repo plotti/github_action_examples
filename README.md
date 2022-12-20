@@ -12658,3 +12658,5 @@
 
 - 13:28 20.12.22 Der Kindergarten Schützenwiese brennt immer noch
 
+- 13:37 20.12.22 Kindergarten Schützenwiese ist nicht mehr benutzbar
+
