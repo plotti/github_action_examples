@@ -12584,3 +12584,5 @@
 
 - 07:32 20.12.22 Gebäude in Schützenstrasse brennt lichterloh
 
+- 07:40 20.12.22 Durch die Stadt «gondeln» fast wie in Venedig
+
