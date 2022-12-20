@@ -12650,3 +12650,5 @@
 
 - 12:38 20.12.22 Der Kindergarten Schützenwiese brennt immer noch
 
+- 12:53 20.12.22 Der Kindergarten Schützenwiese brennt immer noch
+
