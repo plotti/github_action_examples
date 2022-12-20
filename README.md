@@ -12578,3 +12578,5 @@
 
 - 07:06 20.12.22 Durch die Stadt «gondeln» fast wie in Venedig
 
+- 07:16 20.12.22 Es brennt bei der Schützenwiese
+
