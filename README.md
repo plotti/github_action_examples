@@ -12632,3 +12632,5 @@
 
 - 11:08 20.12.22 Der Kindergarten Schützenwiese brennt lichterloh
 
+- 11:18 20.12.22 Der Kindergarten Schützenwiese brennt lichterloh
+
