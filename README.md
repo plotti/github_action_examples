@@ -12566,3 +12566,5 @@
 
 - 06:07 20.12.22 Durch die Stadt «gondeln» fast wie in Venedig
 
+- 06:20 20.12.22 Durch die Stadt «gondeln» fast wie in Venedig
+
