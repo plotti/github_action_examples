@@ -12878,3 +12878,5 @@
 
 - 07:33 21.12.22 Der Stadtrat entschliesst sich gegen eine Umzonung des Ponyhofs
 
+- 07:41 21.12.22 Der Stadtrat entschliesst sich gegen eine Umzonung des Ponyhofs
+
