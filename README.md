@@ -12850,3 +12850,5 @@
 
 - 05:28 21.12.22 Kindergarten Schützenwiese ist nicht mehr benutzbar
 
+- 05:36 21.12.22 Der Stadtrat entschliesst sich gegen eine Umzonung des Ponyhofs
+
