@@ -13006,3 +13006,5 @@
 
 - 17:36 21.12.22 Nichts mehr übrig vom «Chindsgi» Schützenwiese
 
+- 17:43 21.12.22 Nichts mehr übrig vom «Chindsgi» Schützenwiese
+
