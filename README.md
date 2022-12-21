@@ -12834,3 +12834,5 @@
 
 - 04:14 21.12.22 Kindergarten Schützenwiese ist nicht mehr benutzbar
 
+- 04:27 21.12.22 Kindergarten Schützenwiese ist nicht mehr benutzbar
+
