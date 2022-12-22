@@ -13220,3 +13220,5 @@
 
 - 11:13 22.12.22 Unbekannte sprengen ZKB-Bancomaten in Hettlingen
 
+- 11:22 22.12.22 KSW schliesst Covid-Testzentren
+
