@@ -13186,3 +13186,5 @@
 
 - 08:43 22.12.22 Stadtrat präsentiert «ebenfalls ambitionierte, aber realistische» Zielgrössen
 
+- 08:50 22.12.22 Unbekannte sprengen ZKB-Bancomat in Hettlingen
+
