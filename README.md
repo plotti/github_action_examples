@@ -13160,3 +13160,5 @@
 
 - 06:47 22.12.22 Stadtrat präsentiert «ebenfalls ambitionierte, aber realistische» Zielgrössen
 
+- 06:54 22.12.22 Stadtrat präsentiert «ebenfalls ambitionierte, aber realistische» Zielgrössen
+
