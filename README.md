@@ -13142,3 +13142,5 @@
 
 - 05:24 22.12.22 Nichts mehr übrig vom «Chindsgi» Schützenwiese
 
+- 05:32 22.12.22 Stadtrat präsentiert «ebenfalls ambitionierte, aber realistische» Zielgrössen
+
