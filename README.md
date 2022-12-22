@@ -13208,3 +13208,5 @@
 
 - 10:21 22.12.22 Unbekannte sprengen ZKB-Bancomaten in Hettlingen
 
+- 10:31 22.12.22 Unbekannte sprengen ZKB-Bancomaten in Hettlingen
+
