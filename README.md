@@ -13392,3 +13392,5 @@
 
 - 00:51 23.12.22 KSW schliesst Covid-Testzentren
 
+- 01:26 23.12.22 KSW schliesst Covid-Testzentren
+
