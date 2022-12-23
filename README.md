@@ -13548,3 +13548,5 @@
 
 - 14:05 23.12.22 «Ustrinkete» in Wülflingen
 
+- 14:15 23.12.22 «Ustrinkete» in Wülflingen
+
