@@ -13436,3 +13436,5 @@
 
 - 05:27 23.12.22 KSW schliesst Covid-Testzentren
 
+- 05:35 23.12.22 Überfüllte Kinderspitäler: Nun kommt Hilfe vom Kanton
+
