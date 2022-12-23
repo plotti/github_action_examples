@@ -13516,3 +13516,5 @@
 
 - 11:23 23.12.22 Überfüllte Kinderspitäler: Nun kommt Hilfe vom Kanton
 
+- 11:31 23.12.22 «Ustrinkete» in Wülflingen
+
