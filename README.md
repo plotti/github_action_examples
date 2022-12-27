@@ -14834,3 +14834,5 @@
 
 - 20:23 27.12.22 Frauenhäuser erhalten zusätzliche Unterstützung vom Kanton
 
+- 20:31 27.12.22 Frauenhäuser erhalten zusätzliche Unterstützung vom Kanton
+
