@@ -14672,3 +14672,5 @@
 
 - 08:04 27.12.22 Der Querung Grüze steht nichts mehr im Weg
 
+- 08:16 27.12.22 Frauenhäuser erhalten zusätzliche Unterstützung vom Kanton
+
