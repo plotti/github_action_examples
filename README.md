@@ -14956,3 +14956,5 @@
 
 - 07:06 28.12.22 «Wer die beste Symbiose zwischen Sport und Show bringt, gewinnt»
 
+- 07:17 28.12.22 «Wer die beste Symbiose zwischen Sport und Show bringt, gewinnt»
+
