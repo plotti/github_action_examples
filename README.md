@@ -15064,3 +15064,5 @@
 
 - 15:21 28.12.22 «Wer die beste Symbiose zwischen Sport und Show bringt, gewinnt»
 
+- 15:29 28.12.22 Der EHC Winterthur will weiterhin in der zweithöchsten Liga spielen
+
