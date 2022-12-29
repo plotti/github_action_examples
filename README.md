@@ -15418,3 +15418,5 @@
 
 - 19:40 29.12.22 Stadt verbietet Brunnen-Baden in Veltheim in letzter Minute
 
+- 19:48 29.12.22 Stadt verbietet Brunnen-Baden in Veltheim in letzter Minute
+
