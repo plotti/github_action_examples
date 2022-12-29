@@ -15332,3 +15332,5 @@
 
 - 13:18 29.12.22 Ein Graffiti-Künstler, der sein inneres Farbchaos ordnen will
 
+- 13:28 29.12.22 Ein Graffiti-Künstler, der sein inneres Farbchaos ordnen will
+
