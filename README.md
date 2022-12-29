@@ -15238,3 +15238,5 @@
 
 - 05:58 29.12.22 Der EHC Winterthur will weiterhin in der zweithöchsten Liga spielen
 
+- 06:08 29.12.22 Der EHC Winterthur will weiterhin in der zweithöchsten Liga spielen
+
