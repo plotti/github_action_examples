@@ -15356,3 +15356,5 @@
 
 - 14:58 29.12.22 Ein Graffiti-Künstler, der sein inneres Farbchaos ordnen will
 
+- 15:08 29.12.22 Stadt verbietet Brunnen-Baden in Veltheim in letzter Minute
+
