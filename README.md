@@ -15524,3 +15524,5 @@
 
 - 05:26 30.12.22 Stadt verbietet Brunnen-Baden in Veltheim in letzter Minute
 
+- 05:34 30.12.22 Von Januar bis Dezember: Was 2022 in Winterthur für Schlagzeilen sorgte
+
