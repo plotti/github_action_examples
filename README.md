@@ -15702,3 +15702,5 @@
 
 - 19:01 30.12.22 Von Januar bis Dezember: Was 2022 in Winterthur für Schlagzeilen sorgte
 
+- 19:11 30.12.22 Von Januar bis Dezember: Was 2022 in Winterthur für Schlagzeilen sorgte
+
