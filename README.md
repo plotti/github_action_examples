@@ -15830,3 +15830,5 @@
 
 - 05:56 31.12.22 Von Januar bis Dezember: Was 2022 in Winterthur für Schlagzeilen sorgte
 
+- 06:06 31.12.22 Das war das Himmelsjahr 2022
+
