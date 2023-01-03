@@ -16886,3 +16886,5 @@
 
 - 18:39 03.01.23 Stadtpolizei Winterthur setzt auf Super-Recognizer
 
+- 18:47 03.01.23 Stadtpolizei Winterthur setzt auf Super-Recognizer
+
