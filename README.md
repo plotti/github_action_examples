@@ -16780,3 +16780,5 @@
 
 - 10:14 03.01.23 Das Neujahrsbaby im KSW heisst Elina
 
+- 10:26 03.01.23 Stadtpolizei Winterthur setzt auf Super-Recognizer
+
