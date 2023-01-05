@@ -17320,3 +17320,5 @@
 
 - 07:23 05.01.23 Geheimgang 188 stellt Besucherrekord auf
 
+- 07:31 05.01.23 Als «O Rei» Pelé in Seen ein paar Tennisbälle schlug
+
