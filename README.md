@@ -17582,3 +17582,5 @@
 
 - 05:28 06.01.23 Von der Co-Präsidentin zur Geschäftsführerin
 
+- 05:36 06.01.23 Massiv Übergewichtige können sich neu am KSW operieren lassen
+
