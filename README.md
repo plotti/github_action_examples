@@ -17590,3 +17590,5 @@
 
 - 05:59 06.01.23 Massiv Übergewichtige können sich neu am KSW operieren lassen
 
+- 06:10 06.01.23 Massiv Übergewichtige können sich neu am KSW operieren lassen
+
