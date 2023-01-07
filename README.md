@@ -17994,3 +17994,5 @@
 
 - 14:26 07.01.23 Der 49. Yellow-Cup ist lanciert
 
+- 14:34 07.01.23 Der 49. Yellow-Cup ist lanciert
+
