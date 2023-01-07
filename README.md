@@ -17966,3 +17966,5 @@
 
 - 12:02 07.01.23 Ein Sideman, der auch allein überzeugt
 
+- 12:14 07.01.23 Der 49. Yellow-Cup ist lanciert
+
