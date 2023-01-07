@@ -17916,3 +17916,5 @@
 
 - 08:31 07.01.23 Der zwölfte Cupsieg: So nah und doch so fern
 
+- 08:40 07.01.23 Ein Sideman, der auch allein überzeugt
+
