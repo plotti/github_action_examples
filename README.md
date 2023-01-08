@@ -18362,3 +18362,5 @@
 
 - 19:44 08.01.23 «Ich kann mein Hobby zum Beruf machen, das ist ein Traum»
 
+- 19:52 08.01.23 Die Schweiz gewinnt den Yellow-Cup
+
