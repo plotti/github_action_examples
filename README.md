@@ -18518,3 +18518,5 @@
 
 - 09:06 09.01.23 Die Schweiz gewinnt den Yellow-Cup
 
+- 09:17 09.01.23 Die Schweiz gewinnt den Yellow-Cup
+
