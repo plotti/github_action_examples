@@ -18530,3 +18530,5 @@
 
 - 09:58 09.01.23 Kommt bald flächendeckendes Tempo 30 in der Breite?
 
+- 10:13 09.01.23 Kommt bald flächendeckendes Tempo 30 in der Breite?
+
