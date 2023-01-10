@@ -18806,3 +18806,5 @@
 
 - 09:43 10.01.23 Ein Weltmeister und ein CEO zu Gast
 
+- 09:51 10.01.23 Gemeinden einigen sich: Der Kistenpass soll gesperrt werden
+
