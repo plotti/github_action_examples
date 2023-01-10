@@ -18944,3 +18944,5 @@
 
 - 20:59 10.01.23 Gemeinden einigen sich: Der Kistenpass soll gesperrt werden
 
+- 21:09 10.01.23 Gemeinden einigen sich: Der Kistenpass soll gesperrt werden
+
