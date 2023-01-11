@@ -19156,3 +19156,5 @@
 
 - 16:02 11.01.23 «Das wäre auch gegenüber dem Taxigewerbe ein No-Go»
 
+- 16:14 11.01.23 «Das wäre auch gegenüber dem Taxigewerbe ein No-Go»
+
