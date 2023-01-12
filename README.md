@@ -19402,3 +19402,5 @@
 
 - 13:41 12.01.23 Ehepaar auf Fussgängerstreifen angefahren und schwer verletzt
 
+- 13:48 12.01.23 Ehepaar auf Fussgängerstreifen angefahren und schwer verletzt
+
