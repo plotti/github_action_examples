@@ -19388,3 +19388,5 @@
 
 - 11:56 12.01.23 Eine Liebeserklärung an die Ergotherapie
 
+- 12:09 12.01.23 Ehepaar auf Fussgängerstreifen angefahren und schwer verletzt
+
